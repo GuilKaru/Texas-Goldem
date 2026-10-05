@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cace6c80f1d5f541919539a6e1f6755
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Prefabs/pb_Card.prefab
+  uploadId: 671585

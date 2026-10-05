@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9e6aa29e702d9a4bad9d200f6c80c4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/Systems/Editor/PokerDataEditor.cs
+  uploadId: 671585

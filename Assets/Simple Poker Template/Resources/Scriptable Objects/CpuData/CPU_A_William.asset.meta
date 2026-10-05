@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef1cd8a12dfb1b5458b3aaa847fa6df8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Resources/Scriptable Objects/CpuData/CPU_A_William.asset
+  uploadId: 671585

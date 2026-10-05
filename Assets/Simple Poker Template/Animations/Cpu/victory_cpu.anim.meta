@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 853e4f9a36f4e8a4da3ba2064c1ec757
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Animations/Cpu/victory_cpu.anim
+  uploadId: 671585

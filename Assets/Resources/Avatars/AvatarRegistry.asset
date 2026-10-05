@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f342c4af435499542be3e2f0f420d577, type: 3}
+  m_Name: AvatarRegistry
+  m_EditorClassIdentifier: Assembly-CSharp::TexasHoldem.AvatarRegistry
+  entries:
+  - slug: cardi_b
+    sprite: {fileID: 21300000, guid: 9dc9d7d7e85499a41aa4af27238a8536, type: 3}
+  - slug: greta_thunberg
+    sprite: {fileID: 21300000, guid: 4f762ea7348cd7243bb38f968e0d5c1d, type: 3}
+  - slug: jim_cramer
+    sprite: {fileID: 21300000, guid: 5ce384b8120a8354ba13f877d922b447, type: 3}
+  - slug: kim_kardashian
+    sprite: {fileID: 21300000, guid: 4f531c3555613f44f8cb14bc424c2d89, type: 3}
+  - slug: michael_saylor
+    sprite: {fileID: 21300000, guid: 6e3c0bc776490394a889e3601b38f829, type: 3}
+  - slug: mr_beast
+    sprite: {fileID: 21300000, guid: 6e67f9b234571394face8c44f03a87f9, type: 3}
+  - slug: obama
+    sprite: {fileID: 21300000, guid: 4aac74fbdcaba5d48aecb17e89c8de8f, type: 3}
+  - slug: ronaldo
+    sprite: {fileID: 21300000, guid: 8dcb3c34589ede74c9c494b24c0ca1bf, type: 3}
+  - slug: the_onion
+    sprite: {fileID: 21300000, guid: c4c3db3e4ba2a95468a4319c5d9ebecc, type: 3}
+  - slug: theo_von
+    sprite: {fileID: 21300000, guid: 9379832a773b765409d4c41070807bd3, type: 3}
+  - slug: trump
+    sprite: {fileID: 21300000, guid: 51e539be3b19d1441931e3a98a5049b0, type: 3}
+  - slug: wendys
+    sprite: {fileID: 21300000, guid: 0b169fa695a8a36409850ac12ac38da4, type: 3}
+  fallbackSprite: {fileID: 21300000, guid: 9dc9d7d7e85499a41aa4af27238a8536, type: 3}

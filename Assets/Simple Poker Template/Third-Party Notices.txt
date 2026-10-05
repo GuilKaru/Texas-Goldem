@@ -1,0 +1,42 @@
+This package includes the following third-party components:
+
+1. Component: Background Music
+   License: Creative Commons 1.0
+   License URL: https://creativecommons.org/publicdomain/zero/1.0/
+   Author: Alex McCulloch
+   Path: Assets/Simple Poker Template/Audio/BGM/
+   URL: https://opengameart.org/content/jazz-chromatic
+   Description: The background music in menu scene used in the package.
+
+2. Component: Cities Images
+   License: MIT License
+   License URL: https://opensource.org/licenses/MIT
+   Author: Craiyon
+   Path: Assets/Simple Poker Template/Sprites/Placeholders/UI/Cities/
+   URL: https://www.craiyon.com/
+   Description: The sample cities images included in the package.
+
+3. Component: DOTWeen
+   Author: Demigiant
+   License: Standard Unity Asset Store EULA
+   License URL: https://unity.com/pt/legal/as-terms
+   Path: Assets/Plugins/Demigiant
+   URL: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+   Description: The dependency package in this package. 
+
+
+The rest of the components were made by the author of this package:
+
+1. Component: Sprites
+   Author: NatoMarcacini (Author of this package)
+   License: Creative Commons 1.0
+   License URL: https://creativecommons.org/publicdomain/zero/1.0/
+   Path: Assets/Simple Poker Template/Sprites/Placeholders/
+   Description: The sample images included in the package: characters, cards, tables, icon and UI.
+
+2. Component: SFX Audio 
+   Author: NatoMarcacini (Author of this package)
+   License: Creative Commons 1.0
+   URL: https://creativecommons.org/publicdomain/zero/1.0/
+   Path: Assets/Simple Poker Template/Audio/SFX/
+   Description: The sound effects included in the package.

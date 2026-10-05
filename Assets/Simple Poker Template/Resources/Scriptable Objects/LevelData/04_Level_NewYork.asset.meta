@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 752a37e751e0fa54c992296a49c7a18d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Resources/Scriptable Objects/LevelData/04_Level_NewYork.asset
+  uploadId: 671585

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b27e56d083ea99243bbd177f648ed5f0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Prefabs/Prefabs Managers/pb_UIStateManager.prefab
+  uploadId: 671585

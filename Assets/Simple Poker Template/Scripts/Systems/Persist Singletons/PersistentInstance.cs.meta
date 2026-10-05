@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a1f10e78e45245c48b7d723dd2f066e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/Systems/Persist Singletons/PersistentInstance.cs
+  uploadId: 671585

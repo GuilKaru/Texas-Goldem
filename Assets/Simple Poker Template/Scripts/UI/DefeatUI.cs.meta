@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b89f99abc3638f4cae2f49c360aae6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/UI/DefeatUI.cs
+  uploadId: 671585

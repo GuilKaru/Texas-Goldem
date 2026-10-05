@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d53a6acc90e4eb042a18887ad0cc18d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 24100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Audio/AudioMixer.mixer
+  uploadId: 671585

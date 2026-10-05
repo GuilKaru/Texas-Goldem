@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: faffc0e2e069cfa45a0574e24704490b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/Game Scene/Poker Visuals/UIPlayer.cs
+  uploadId: 671585

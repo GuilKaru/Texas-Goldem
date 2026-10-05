@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40b73767b003c1645b2bac6e7442daca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Prefabs/pb_Cpu.prefab
+  uploadId: 671585

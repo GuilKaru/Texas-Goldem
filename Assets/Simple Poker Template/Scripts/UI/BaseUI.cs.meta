@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40f35da356eaf574d9ec0b27c330e0ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/UI/BaseUI.cs
+  uploadId: 671585

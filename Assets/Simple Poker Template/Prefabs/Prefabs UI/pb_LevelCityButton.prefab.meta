@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd982167eb3de594f9e614a4c5e583ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Prefabs/Prefabs UI/pb_LevelCityButton.prefab
+  uploadId: 671585

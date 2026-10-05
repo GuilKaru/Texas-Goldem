@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11f318ed22105da48a47125c3bb1e71c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Resources/Scriptable Objects/CpuData/CPU_B_Kennedy.asset
+  uploadId: 671585

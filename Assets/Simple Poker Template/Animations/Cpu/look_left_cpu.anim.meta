@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d518edce828fc34ebfb6eb100d35fbd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Animations/Cpu/look_left_cpu.anim
+  uploadId: 671585

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0288630d2f1c714a850b47e9396fb07, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  Portraits:
+  - {fileID: 21300000, guid: 986e1cb139fc6854cb8bd8459dba5464, type: 3}
+  - {fileID: 21300000, guid: c9b45ad90f594e44d84175a9d892b450, type: 3}
+  - {fileID: 21300000, guid: b6ab191ffa9207942aec4e6534e5101a, type: 3}
+  - {fileID: 21300000, guid: d17b5f83fc0914b4f8ab86025812f496, type: 3}
+  - {fileID: 21300000, guid: fa0b6c6ca0cbae34e9594b05dd255cff, type: 3}
+  - {fileID: 21300000, guid: 1059e31f49581834b874d4ff3864e858, type: 3}
+  - {fileID: 21300000, guid: 11dd597c2c00c11439c02849dad7449a, type: 3}
+  - {fileID: 21300000, guid: 0af43f0c7716a8742a3e52ca4259a6a9, type: 3}
+  - {fileID: 21300000, guid: 3fa9dfed54c082645beb0b572e5406a9, type: 3}
+  - {fileID: 21300000, guid: 164b14f7bce818046acddf06a3c6e764, type: 3}
+  - {fileID: 21300000, guid: 00b3cc82fad027f4eba2f864eb0697ef, type: 3}
+  - {fileID: 21300000, guid: 40debfe41785414439e63e18252bb75f, type: 3}
+  - {fileID: 21300000, guid: 53d0081843892e54383712d4f24830bb, type: 3}
+  Name: You

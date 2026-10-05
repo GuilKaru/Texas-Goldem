@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631e308b7d784cc458b026fa712df786, type: 3}
+  m_Name: CPU_A_William
+  m_EditorClassIdentifier: 
+  Portrait: {fileID: 21300000, guid: d17b5f83fc0914b4f8ab86025812f496, type: 3}
+  Name: William
+  Ante:
+    Fold: 20
+    Check: 65
+    Bet: 10
+    AllIn: 5
+  Flop:
+    Fold: 20
+    Check: 50
+    Bet: 20
+    AllIn: 10
+  Turn:
+    Fold: 20
+    Check: 50
+    Bet: 20
+    AllIn: 10
+  River:
+    Fold: 20
+    Check: 50
+    Bet: 20
+    AllIn: 10

@@ -1,0 +1,102 @@
+using UnityEngine;
+
+namespace SimplePoker
+{
+    /// <summary>
+    /// A static instance is similar to a singleton, but instead of destroying any new
+    /// instances, it overrides the current instance. This is handy for resetting the state
+    /// and saves you doing it manually
+    /// </summary>
+    /// <typeparam name="T">The type of the singleton MonoBehaviour.</typeparam>
+    public abstract class StaticInstance<T> : MonoBehaviour where T : MonoBehaviour
+    {
+        public static T Instance { get; private set; }
+        protected virtual void Awake()
+        {
+            if (Instance == null)
+                Instance = this as T;
+        }
+
+        protected virtual void OnApplicationQuit()
+        {
+            Instance = null;
+            Destroy(gameObject);
+        }
+    }
+
+    /// <summary>
+    /// This transforms the static instance into a basic singleton. This will destroy any new
+    /// versions created, leaving the original instance intact
+    /// </summary>
+    /// <typeparam name="T">The type of the singleton MonoBehaviour.</typeparam>
+    public abstract class Singleton<T> : StaticInstance<T> where T : MonoBehaviour
+    {
+        protected override void Awake()
+        {
+            if (Instance != null) Destroy(gameObject);
+            base.Awake();
+        }
+    }
+
+    /// <summary>
+    /// This will survive through scene
+    /// loads. Perfect for system classes which require stateful, persistent data. Or audio sources
+    /// where music plays through loading screens, etc
+    /// </summary>
+    /// <typeparam name="T">The type of the singleton MonoBehaviour.</typeparam>
+    public abstract class PersistentSingleton<T> : Singleton<T> where T : MonoBehaviour
+    {
+        protected override void Awake()
+        {
+            if (Instance != null) Destroy(gameObject);
+            base.Awake();
+            DontDestroyOnLoad(gameObject);
+        }
+    }
+
+
+
+    /// <summary>
+    /// A base class for creating auto-instantiated singleton MonoBehaviour classes.
+    /// </summary>
+    /// <typeparam name="T">The type of the singleton MonoBehaviour.</typeparam>
+    public abstract class Static_AutoInstance<T> : MonoBehaviour where T : MonoBehaviour
+    {
+        private static T instance;
+        public static T Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = (Instantiate(Resources.Load(typeof(T).Name)) as GameObject).GetComponent<T>();
+                }
+                return instance;
+            }
+        }
+    }
+
+    /// <summary>
+    /// A base class for creating auto-instantiated singleton MonoBehaviour classes that persist across scene changes.
+    /// </summary>
+    /// <typeparam name="T">The type of the singleton MonoBehaviour.</typeparam>
+    public abstract class PersistentStatic_AutoInstance<T> : MonoBehaviour where T : MonoBehaviour
+    {
+        private static T instance;
+        public static T Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = (Instantiate(Resources.Load(typeof(T).Name)) as GameObject).GetComponent<T>();
+                    DontDestroyOnLoad(instance.gameObject);
+                }
+                return instance;
+            }
+        }
+    }
+}
+
+
+

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 593fab8e75a1dba4ead06bda3ba77af6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Prefabs/pb_Player.prefab
+  uploadId: 671585

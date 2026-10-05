@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 903e4d4a7f498664db5542662da381e2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Resources/Scriptable Objects/CpuData/Cpu_C_Oliver.asset
+  uploadId: 671585

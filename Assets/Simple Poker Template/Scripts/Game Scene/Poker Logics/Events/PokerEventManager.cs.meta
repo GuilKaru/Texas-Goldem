@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4a11218a70a996d47b023d8acd27505b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/Game Scene/Poker Logics/Events/PokerEventManager.cs
+  uploadId: 671585

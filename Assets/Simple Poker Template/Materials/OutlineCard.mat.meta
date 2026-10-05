@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc6fc1bb9fffdf9408088f74436257a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Materials/OutlineCard.mat
+  uploadId: 671585

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfc3a1d3d67219948b95e25e521c96da
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Animations/Cpu/sad_cpu.anim
+  uploadId: 671585

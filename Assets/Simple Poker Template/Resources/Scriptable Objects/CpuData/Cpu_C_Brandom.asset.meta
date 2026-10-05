@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85e2f1c35abc77c458a3a9b9e01fbae3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Resources/Scriptable Objects/CpuData/Cpu_C_Brandom.asset
+  uploadId: 671585

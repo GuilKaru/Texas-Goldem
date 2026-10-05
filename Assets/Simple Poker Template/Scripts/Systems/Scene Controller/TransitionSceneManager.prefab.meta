@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e30ac1c7a2f102439f6933435f3c04c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/Systems/Scene Controller/TransitionSceneManager.prefab
+  uploadId: 671585

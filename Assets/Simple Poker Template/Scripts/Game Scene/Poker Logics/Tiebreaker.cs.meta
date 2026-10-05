@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9b3e4931e51c371488cc6ac93a6f9414
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285589
+  packageName: Simple Poker Template
+  packageVersion: 1.0
+  assetPath: Assets/Simple Poker Template/Scripts/Game Scene/Poker Logics/Tiebreaker.cs
+  uploadId: 671585
